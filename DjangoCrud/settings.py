@@ -25,7 +25,7 @@ SECRET_KEY = 'u7z39x#*@+yumol2y+o)3=w^6j5b53uy3x=a!_rdkry+gds32-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cruddjango.herokuapp.com']
 
 
 # Application definition
