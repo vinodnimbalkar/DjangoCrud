@@ -25,6 +25,4 @@ Example created for the crud operation [Django CRUD (Create Read Update Delete) 
 
     python manage.py runserver
 
-### 5. And open 127.0.0.1:8000/login in your web browser.
-
-#### Ignore SpringCrud Directory
+### 5. And open 127.0.0.1:8000 in your web browser.
